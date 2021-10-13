@@ -1,0 +1,19 @@
+form{
+    border: 1px solid black;
+    width: 40%;
+    margin: 0 auto;
+}
+
+input{
+    margin-top: 10px;
+}
+
+input[type=text]:focus {
+  background-color: lightgrey;
+
+}
+
+select{
+    margin-top: 10px;
+}
+
